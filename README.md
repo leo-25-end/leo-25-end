@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ### 😉 I'm Leonardo Santana, I'm 24 years old and I study programming a few months ago.
 ### 🤝 I'm here to learn and consequently collaborate with this wonderful community that is GitHub.
 ### 🖖 I’m looking to collaborate on projects open source.
